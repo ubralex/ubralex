@@ -1,4 +1,4 @@
-### Hi there 👋, Alex Brito
+### Olá 👋, Alex Brito
 #### Android Developer
 
 Skills: KOTLIN / JAVA / ANDROID STUDIO
