@@ -1,7 +1,5 @@
 ### Hi there 👋, Alex Brito
 #### Android Developer
-![Android Developer](https://www.canva.com/design/DAFYbeA6fXo/7Rsutc74NEb_44bKfBQJyw/edit?utm_content=DAFYbeA6fXo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
 
 Skills: KOTLIN / JAVA / ANDROID STUDIO
 
