@@ -1,4 +1,4 @@
-### Olá 👋, me chamo Alex Brito e sou desenvolvedor mobile em formação em busca de uma oportunidade de estágio. Estou cursando a segunda metade do curso Superior de Tecnologia em Desenvolvimento Mobile. No momento estou focando no estudo e desenvolvimento de aplicativos Android na linguagem Kotlin.
+### Olá 👋🏻! Sou um desenvolvedor mobile em formação buscando estágio para aprender e contribuir em apps inovadores. Sou proativo, criativo e motivado, buscando soluções eficientes e centradas no usuário. Comprometido em adquirir novos conhecimentos, enfrentar desafios e criar experiências móveis excepcionais. No momento estou estudando desenvolvimento nativo Android em Kotlin.
 
 #### Android Developer
 
