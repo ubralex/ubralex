@@ -1,4 +1,4 @@
-### Olá 👋🏻! Sou um desenvolvedor mobile em formação buscando estágio para aprender e contribuir em apps inovadores. Sou proativo, criativo e motivado, buscando soluções eficientes e centradas no usuário. Comprometido em adquirir novos conhecimentos, enfrentar desafios e criar experiências móveis excepcionais. No momento estou estudando desenvolvimento nativo Android em Kotlin.
+### Olá 👋🏻! Sou um desenvolvedor mobile em formação buscando uma oportunidade para contribuir em apps inovadores. Sou proativo, criativo e motivado, buscando soluções eficientes e centradas no usuário. Comprometido em adquirir novos conhecimentos, enfrentar desafios e criar experiências móveis excepcionais. No momento estou estudando desenvolvimento nativo Android em Kotlin.
 
 #### Android Developer
 
